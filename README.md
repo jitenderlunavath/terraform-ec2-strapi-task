@@ -156,19 +156,7 @@ Create your first admin user.
 
 ---
 
-## Loom Video
-
-The Loom video demonstrates:
-
-1. Terraform module structure
-2. Terraform apply process
-3. EC2 instance creation
-4. PEM key generation
-5. SSH connection
-6. Strapi installation and startup
-7. Accessing the admin panel via public IP
-
----
+Submission branch for internship task.
 
 ## GitHub Repository
 
@@ -191,4 +179,4 @@ A Pull Request was created from the `submission` branch to `main` as part of the
 * `.terraform/`, `.pem`, and `terraform.tfstate` files are excluded using `.gitignore`.
 * Strapi runs in development mode for demonstration purposes.
 
-Submission branch for internship task.
+
