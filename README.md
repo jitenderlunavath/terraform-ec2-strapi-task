@@ -178,5 +178,3 @@ A Pull Request was created from the `submission` branch to `main` as part of the
 
 * `.terraform/`, `.pem`, and `terraform.tfstate` files are excluded using `.gitignore`.
 * Strapi runs in development mode for demonstration purposes.
-
-
